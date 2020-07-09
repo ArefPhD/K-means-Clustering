@@ -8,3 +8,5 @@ SOM is a
 (2) Each unit of map reduces identical inputs.
 (3) Units competes for selection
 (4) Modification of selected node and its neighbors. 
+
+The matlab code to detect faces has been included in the files. 
